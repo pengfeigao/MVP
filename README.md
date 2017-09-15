@@ -1,6 +1,6 @@
 # MVP
 该demo展示了mvp设计模式在安卓中的应用
-
+[MVP](https://github.com/pengfeigao/MVP/blob/master/snapshoot/mvp.gif)
 - M-->Model层负责业务逻辑以及网络数据的请求处理以及数据的封装
 - V-->View层则是以我们的Activity或者Fragment来作为展示
 - P-->Presenter层作为连接Viwe层与Model层的一个桥梁（中间者）
